@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ogbons-code.
+- 👀 I’m a software engineer (frontend dev).
+- 💞️ I’m looking forward to collaborate on front end development job.
+- 📫 How to reach me samsonogbonna95@gmail.com
+- ⚡Coding is what i do for a living and i love it so much.
